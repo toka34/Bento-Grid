@@ -1,0 +1,15 @@
+.bento-grid .item:nth-child(7) {
+    background-color: hsl(0, 0%, 100%);
+    grid-area: box7;
+    padding: 1.5rem;
+}
+    .bento-grid .item:nth-child(7) span {
+        display: block;
+        margin-bottom: 1rem;
+        font-size: 50px;
+        font-weight: 500;
+    }
+
+    .bento-grid .item:nth-child(7) img {
+        margin-top: 1.5rem;
+    }
