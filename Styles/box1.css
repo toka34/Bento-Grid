@@ -1,0 +1,10 @@
+.bento-grid .item:nth-child(1) {
+    background-color: hsl(31, 66%, 93%);
+    margin-top: 1rem;
+    grid-area: box1;
+    padding: 6rem 2rem 0 2.5rem;
+}
+
+    .bento-grid .item:nth-child(1) em {
+        color: hsl(256, 67%, 59%);
+    }

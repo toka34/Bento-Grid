@@ -1,0 +1,10 @@
+.bento-grid .item:nth-child(6) {
+    background-color: hsl(39, 100%, 71%);
+    grid-area: box6;
+    position: relative;
+    padding: 1rem 1.75rem;
+}
+
+    .bento-grid .item:nth-child(6) p {
+        margin-top: 1rem;
+    }
